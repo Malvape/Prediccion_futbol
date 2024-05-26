@@ -17,6 +17,8 @@ mkdir -p /home/vscode/datasets
 
 # Download the dataset
 kaggle datasets download -d martj42/international-football-results-from-1872-to-2017 -p /home/vscode/datasets
+kaggle datasets download -d cashncarry/fifa-23-complete-player-dataset -p /home/vscode/datasets
 
 # Unzip the dataset
 unzip /home/vscode/datasets/international-football-results-from-1872-to-2017.zip -d /home/vscode/datasets
+unzip /home/vscode/datasets/fifa-23-complete-player-dataset.zip -d /home/vscode/datasets

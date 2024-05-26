@@ -19,4 +19,4 @@ mkdir -p /home/vscode/datasets
 kaggle datasets download -d martj42/international-football-results-from-1872-to-2017 -p /home/vscode/datasets
 
 # Unzip the dataset
-unzip /home/vscode/datasets/archive.zip -d /home/vscode/datasets
+unzip /home/vscode/datasets/international-football-results-from-1872-to-2017.zip -d /home/vscode/datasets

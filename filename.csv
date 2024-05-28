@@ -1,0 +1,64 @@
+Unnamed: 0,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2022-01-10,Morocco,Ghana,1.0,0.0,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-27,Ecuador,Brazil,1.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False
+2022-01-30,Canada,United States,2.0,0.0,FIFA World Cup qualification,Hamilton,Canada,False
+2022-01-30,Mexico,Costa Rica,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-02-01,Japan,Saudi Arabia,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False
+2022-02-01,Peru,Ecuador,1.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2022-03-24,Mexico,United States,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-03-24,Costa Rica,Canada,1.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-03-24,Korea Republic,Iran,2.0,0.0,FIFA World Cup qualification,Seoul,Korea Republic,False
+2022-03-24,Uruguay,Peru,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2022-03-26,England,Switzerland,2.0,1.0,Friendly,London,England,False
+2022-03-26,Netherlands,Denmark,4.0,2.0,Friendly,Amsterdam,Netherlands,False
+2022-03-29,Ecuador,Argentina,1.0,1.0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2022-03-29,Denmark,Serbia,3.0,0.0,Friendly,Copenhagen,Denmark,False
+2022-03-29,Netherlands,Germany,1.0,1.0,Friendly,Amsterdam,Netherlands,False
+2022-03-30,Costa Rica,United States,2.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-06-01,Poland,Wales,2.0,1.0,UEFA Nations League,Wrocław,Poland,False
+2022-06-01,United States,Morocco,3.0,0.0,Friendly,Cincinnati,United States,False
+2022-06-02,Spain,Portugal,1.0,1.0,UEFA Nations League,Sevilla,Spain,False
+2022-06-02,Korea Republic,Brazil,1.0,5.0,Friendly,Seoul,Korea Republic,False
+2022-06-02,Mexico,Uruguay,0.0,3.0,Friendly,Glendale,United States,True
+2022-06-03,France,Denmark,1.0,2.0,UEFA Nations League,Paris,France,False
+2022-06-03,Belgium,Netherlands,1.0,4.0,UEFA Nations League,Brussels,Belgium,False
+2022-06-05,Portugal,Switzerland,4.0,0.0,UEFA Nations League,Lisbon,Portugal,False
+2022-06-05,Mexico,Ecuador,0.0,0.0,Friendly,Chicago,United States,True
+2022-06-05,United States,Uruguay,0.0,0.0,Friendly,Kansas City,United States,False
+2022-06-06,Croatia,France,1.0,1.0,UEFA Nations League,Split,Croatia,False
+2022-06-06,Japan,Brazil,0.0,1.0,Friendly,Tokyo,Japan,False
+2022-06-07,Germany,England,1.0,1.0,UEFA Nations League,Munich,Germany,False
+2022-06-08,Wales,Netherlands,1.0,2.0,UEFA Nations League,Cardiff,Wales,False
+2022-06-08,Belgium,Poland,6.0,1.0,UEFA Nations League,Brussels,Belgium,False
+2022-06-09,Switzerland,Spain,0.0,1.0,UEFA Nations League,Geneva,Switzerland,False
+2022-06-10,Denmark,Croatia,0.0,1.0,UEFA Nations League,Copenhagen,Denmark,False
+2022-06-10,Japan,Ghana,4.0,1.0,Kirin Cup,Kobe,Japan,False
+2022-06-11,Wales,Belgium,1.0,1.0,UEFA Nations League,Cardiff,Wales,False
+2022-06-11,Netherlands,Poland,2.0,2.0,UEFA Nations League,Rotterdam,Netherlands,False
+2022-06-12,Switzerland,Portugal,1.0,0.0,UEFA Nations League,Geneva,Switzerland,False
+2022-06-13,France,Croatia,0.0,1.0,UEFA Nations League,Paris,France,False
+2022-06-14,Netherlands,Wales,3.0,2.0,UEFA Nations League,Rotterdam,Netherlands,False
+2022-06-14,Poland,Belgium,0.0,1.0,UEFA Nations League,Warsaw,Poland,False
+2022-06-14,Japan,Tunisia,0.0,3.0,Kirin Cup,Suita,Japan,False
+2022-09-22,Croatia,Denmark,2.0,1.0,UEFA Nations League,Zagreb,Croatia,False
+2022-09-22,Belgium,Wales,2.0,1.0,UEFA Nations League,Brussels,Belgium,False
+2022-09-22,Poland,Netherlands,0.0,2.0,UEFA Nations League,Warsaw,Poland,False
+2022-09-23,Japan,United States,2.0,0.0,Kirin Challenge Cup,Düsseldorf,Germany,True
+2022-09-23,Brazil,Ghana,3.0,0.0,Friendly,Le Havre,France,True
+2022-09-23,Canada,Qatar,2.0,0.0,Friendly,Vienna,Austria,True
+2022-09-23,Iran,Uruguay,1.0,0.0,Friendly,St Polten,Austria,True
+2022-09-23,Korea Republic,Costa Rica,2.0,2.0,Friendly,Goyang,Korea Republic,False
+2022-09-23,Saudi Arabia,Ecuador,0.0,0.0,Friendly,Murcia,Spain,True
+2022-09-24,Mexico,Peru,1.0,0.0,Friendly,Pasadena,United States,True
+2022-09-24,Spain,Switzerland,1.0,2.0,UEFA Nations League,Zaragoza,Spain,False
+2022-09-25,Denmark,France,2.0,0.0,UEFA Nations League,Copenhagen,Denmark,False
+2022-09-25,Wales,Poland,0.0,1.0,UEFA Nations League,Cardiff,Wales,False
+2022-09-25,Netherlands,Belgium,1.0,0.0,UEFA Nations League,Amsterdam,Netherlands,False
+2022-09-26,England,Germany,3.0,3.0,UEFA Nations League,London,England,False
+2022-09-27,Brazil,Tunisia,5.0,1.0,Friendly,Paris,France,True
+2022-09-27,Canada,Uruguay,0.0,2.0,Friendly,Bratislava,Slovakia,True
+2022-09-27,Ecuador,Japan,0.0,0.0,Kirin Challenge Cup,Düsseldorf,Germany,True
+2022-09-27,Iran,Senegal,1.0,1.0,Friendly,Maria Enzersdorf,Austria,True
+2022-09-27,Korea Republic,Cameroon,1.0,0.0,Friendly,Seoul,Korea Republic,False
+2022-09-27,Saudi Arabia,United States,0.0,0.0,Friendly,Murcia,Spain,True
+2022-09-27,Portugal,Spain,0.0,1.0,UEFA Nations League,Braga,Portugal,False

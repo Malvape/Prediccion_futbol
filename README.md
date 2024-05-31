@@ -2,6 +2,15 @@
 
 The Ipynb file for this project is here [Peru in the WC 2022 MLP](https://github.com/Malvape/Prediccion_futbol/blob/main/Solucion.ipynb) , the datasets are from kaggle. and the following graphics show what the model expects the group stage game would have been like for Peru.
 
+The data for this project is here:
+[fifa-23-complete-player-dataset](https://www.kaggle.com/datasets/cashncarry/fifa-23-complete-player-dataset)
+[international-football-results-from-1872-to-2017](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
+
+Basically the project is taking the data about the players of each team that played the world cup, and the result of the previous games of that year (2022) that were played by at least one of the qualifiying teams.
+Then i replaced Australia for peru in the games that they played on the group stage of the World Cup, to visualize what would have been the most likely scenario.
+
+
+
 ```python
 # Your code that generates warnings
 

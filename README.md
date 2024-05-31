@@ -6,7 +6,7 @@ The data for this project is here:
 * [fifa-23-complete-player-dataset](https://www.kaggle.com/datasets/cashncarry/fifa-23-complete-player-dataset)
 * [international-football-results-from-1872-to-2017](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
 
-Basically the project is taking the data about the players of each team that played the world cup, and the result of the previous games of that year (2022) that were played by at least one of the qualifiying teams. With that variables, then train a model that tries to predict the outcome of a soccer game based on the information provided about the players involved.
+Basically the project is taking the data about the players of each team that played the world cup, and the result of the previous games of that year (2022) that were played by at least one of the qualifiying teams. With those variables, then train a model that tries to predict the outcome of a soccer game based on the information provided about the players involved.
 Then i replaced Australia for peru in the games that they played on the group stage of the World Cup, to visualize what would have been the most likely scenario.
 
 
